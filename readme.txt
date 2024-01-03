@@ -1,5 +1,3 @@
-Olá mundo programador jcop!
-
-Criação da nova linha de código para branch desenvolvimento.
-
-adicionando uma nova funcionalidade.
+Olá mundo!
+ 
+ajuste realizado para subir da branch desenvolvimento para master -- by jcop.
